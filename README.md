@@ -7,7 +7,7 @@
     user = 'csabinyoo'
     currently_learning = "Python, HTML"
 	hobbies = [
-				'Music 🎵',
+		'Music 🎵',
                 'Football ⚽',
 			]
 	

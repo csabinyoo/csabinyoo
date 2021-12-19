@@ -7,9 +7,9 @@
     user = 'csabinyoo'
     currently_learning = "Python, HTML"
 	hobbies = [
-		'Music 🎵',
-                'Football ⚽',
-			]
+			'Music 🎵',
+                 'Football ⚽',
+		]
 	
 	def getCity():
 		return Szaszberek_Hungary()

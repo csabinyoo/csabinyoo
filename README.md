@@ -50,7 +50,7 @@
 
 ## Browsers
 <p>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
+	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
@@ -58,7 +58,7 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+    <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP%20-%23430098.svg?logo=xampp&logoColor=white"></a>
 </p> 
 
 ## Software and Tools

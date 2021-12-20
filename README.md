@@ -5,7 +5,7 @@
  ```python
   class WhoAmI:
     name = 'Medgyes Csaba'
-    currently_learning = "Python, HTML"
+    currently_learning = 'Python, HTML'
 	hobbies = [
 			'Music 🎵',
                  'Football ⚽',

@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/Jaydeep-Yadav/Jaydeep-Yadav/main/banner.png)
+![Github Banner](banner.png)
 
 ## Who Am I?
 

@@ -4,7 +4,7 @@
 
  ```python
   class WhoAmI:
-    name = 'Medgyes Csaba'
+    name = 'Csaba Medgyes'
     currently_learning = 'Python, HTML'
 	hobbies = [
 			'Music 🎵',

@@ -42,6 +42,7 @@
     
     ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
     ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+    ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=B0B3D6&logo=php&logoColor=474A8A&label=)
     ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
     ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
     ![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
@@ -52,13 +53,13 @@
 - **Frameworks and Libraries**:
     
     ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+    ![Font Awesome](https://img.shields.io/badge/Fontawesome-%43327FC7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 <br>  
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Font Awesome](https://img.shields.io/badge/Fontawesome-%43327FC7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
     
 <br>
 

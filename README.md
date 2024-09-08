@@ -29,8 +29,7 @@
     ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
     ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
     ![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
-    ![C#]([https://img.shields.io/static/v1?style=for-the-badge&message=CSharp&color=ff69b4&logo=CSharp&logoColor=FFFFFF&label=](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white))
-    ![vueJS]([https://img.shields.io/static/v1?style=for-the-badge&message=vuejs&color=42b883&logo=CSharp&logoColor=FFFFFF&label=](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D))
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <br>   
 
